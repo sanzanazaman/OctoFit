@@ -17,6 +17,6 @@ Application features
 OctoFit Tracker includes:
 - User profiles for students and gym teachers
 - Activity tracking to monitor fitness progress
-- Team creation and management for collaborative goals
+- Team creation and management for collaborative goals 
 - Leaderboards to rank student performance 
 - Personalized workout suggestions to help students improve
