@@ -7,7 +7,7 @@ In this hands-on skills session, I took on the role of a gym teacher developing 
 Workshop objectives
 
 By the end of this workshop, I:
-- Set up a development environment using GitHub Codespaces
+- Set up a development environment using GitHub Codespaces 
 - Used GitHub Copilot to accelerate app development
 - Implemented core features of OctoFit Tracker with Copilot Agent Mode
 - Applied best practices for prompting and refining AI-generated code
